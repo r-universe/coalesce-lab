@@ -11,8 +11,3 @@
 [submodule "networkscaleup"]
 	path = networkscaleup
 	url = https://github.com/coalesce-lab/networkscaleup
-[submodule "instantiate"]
-	path = instantiate
-	url = https://github.com/mbojan/instantiate
-	branch = mb
-	registered = false
