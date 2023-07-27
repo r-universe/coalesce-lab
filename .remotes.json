@@ -1,0 +1,9 @@
+[
+  {
+    "package": "instantiate",
+    "url": "https://github.com/mbojan/instantiate",
+    "via": ["stansum"],
+    "branch": "mb",
+    "from": "stansum"
+  }
+]
