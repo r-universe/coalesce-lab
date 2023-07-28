@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/coalesce-lab/universe
-	shallow = true
 	branch = HEAD
 [submodule "NSUM"]
 	path = NSUM
 	url = https://github.com/coalesce-lab/NSUM
-	shallow = true
-	registered = true
 [submodule "stansum"]
 	path = stansum
 	url = https://github.com/coalesce-lab/stansum
-	shallow = true
-	registered = true
 [submodule "networkscaleup"]
 	path = networkscaleup
 	url = https://github.com/coalesce-lab/networkscaleup
-	shallow = true
-	registered = true
