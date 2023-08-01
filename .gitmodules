@@ -5,13 +5,13 @@
 [submodule "NSUM"]
 	path = NSUM
 	url = https://github.com/coalesce-lab/NSUM
-[submodule "stansum"]
-	path = stansum
-	url = https://github.com/coalesce-lab/stansum
-[submodule "networkscaleup"]
-	path = networkscaleup
-	url = https://github.com/coalesce-lab/networkscaleup
 [submodule "instantiate"]
 	path = instantiate
 	url = https://github.com/wlandau/instantiate
 	registered = false
+[submodule "networkscaleup"]
+	path = networkscaleup
+	url = https://github.com/coalesce-lab/networkscaleup
+[submodule "stansum"]
+	path = stansum
+	url = https://github.com/coalesce-lab/stansum
