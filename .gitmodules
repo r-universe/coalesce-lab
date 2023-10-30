@@ -5,6 +5,9 @@
 [submodule "NSUM"]
 	path = NSUM
 	url = https://github.com/coalesce-lab/NSUM
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
 [submodule "instantiate"]
 	path = instantiate
 	url = https://github.com/wlandau/instantiate
