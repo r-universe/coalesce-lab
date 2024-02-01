@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/coalesce-lab/universe
+	url = https://github.com/coalesce-lab/coalesce-lab.r-universe.dev
 	branch = HEAD
 [submodule "NSUM"]
 	path = NSUM
