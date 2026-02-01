@@ -8,10 +8,6 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-[submodule "instantiate"]
-	path = instantiate
-	url = https://github.com/wlandau/instantiate
-	registered = false
 [submodule "networkscaleup"]
 	path = networkscaleup
 	url = https://github.com/coalesce-lab/networkscaleup
